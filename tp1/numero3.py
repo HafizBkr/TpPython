@@ -1,7 +1,7 @@
 pSeuil = 2.3
 vSeuil = 7.41
 
-# Première saisie
+
 volume = float(input("Enter volume: "))
 pression = float(input("Enter pressure: "))
 
