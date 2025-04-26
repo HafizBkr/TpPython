@@ -33,7 +33,6 @@ for i in range(1, nombre_etudiants + 1):
 
     moyenne = total / nombre_notes
     moyennes.append(moyenne)
-
 # Affichage des moyennes
 print("\nMoyennes des étudiants:")
 for i in range(nombre_etudiants):
